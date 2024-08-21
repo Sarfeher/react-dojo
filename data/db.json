@@ -1,28 +1,22 @@
 {
   "blogs": [
     {
-      "title": "My First Blog",
-      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-      "author": "mario",
+      "title": "The Journey to Becoming a Web Developer",
+      "body": "Web development is an ever-evolving field that offers numerous opportunities for those who are passionate about technology. From learning HTML and CSS to mastering JavaScript and React, the journey is filled with challenges and rewards. In this post, I'll share my personal experience transitioning from a novice to a professional web developer. I'll discuss the resources that helped me the most, the projects that built my confidence, and the mistakes I made along the way. Whether you're just starting out or looking to advance your skills, I hope this post provides you with valuable insights and inspiration.",
+      "author": "Alice Johnson",
       "id": "1"
     },
     {
-      "title": "Opening Party!",
-      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-      "author": "yoshi",
+      "title": "10 Tips for Writing Clean and Maintainable Code",
+      "body": "Writing clean code is essential for maintaining a healthy and scalable codebase. In this blog post, I will share 10 practical tips that will help you write code that is easy to read, understand, and maintain. From naming conventions and commenting to breaking down complex functions and following the DRY (Don't Repeat Yourself) principle, these tips are based on industry best practices and my own experience as a software engineer. Clean code not only makes your life easier but also helps your teammates and future developers who might work on the same project.",
+      "author": "John Doe",
       "id": "2"
     },
     {
-      "id": "d848",
-      "title": "Első receptem",
-      "body": "100g só, 100g víz",
-      "author": "yoshi"
-    },
-    {
-      "id": "91ae",
-      "title": "Második receptem",
-      "body": "100g répa, 200g víz",
-      "author": "mario"
+      "title": "Understanding React Hooks: A Beginner’s Guide",
+      "body": "React Hooks have revolutionized the way we write React components by allowing us to use state and other React features without writing a class. In this post, I’ll dive into the basics of React Hooks, including useState, useEffect, and custom hooks. I’ll provide code examples and explain how Hooks can simplify your component logic and make your code more reusable. Whether you're new to React or transitioning from class-based components, this guide will help you get started with Hooks and take your React development skills to the next level.",
+      "author": "Sarah Lee",
+      "id": "3"
     }
   ]
 }
